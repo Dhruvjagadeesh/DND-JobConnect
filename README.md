@@ -182,9 +182,11 @@ JSON
 
 ## Project documents
 
+All submitted deliverables are arranged in lesson-plan order (Lab 1 to Lab 7) in [deliverables/](deliverables/README.md).
+
 | Document | Contents |
 |---|---|
-| [docs/deviations.md](docs/deviations.md) | What changed from the SRS, architecture and test plan, and why |
-| [docs/testing/test-report.md](docs/testing/test-report.md) | Unit, branch-coverage and system test results |
-| [docs/demo-script.md](docs/demo-script.md) | Setup, the 15-minute demo, the sprint video and likely questions |
-| [docs/retrospectives.md](docs/retrospectives.md) | What each sprint delivered, with space for the retrospective notes |
+| [deliverables/Lab7_Final_Validation_and_Demo/deviations.md](deliverables/Lab7_Final_Validation_and_Demo/deviations.md) | What changed from the SRS, architecture and test plan, and why |
+| [deliverables/Lab6_Deliverable6_Sprint2/test-and-coverage-report.md](deliverables/Lab6_Deliverable6_Sprint2/test-and-coverage-report.md) | Unit, branch-coverage and system test results |
+| [deliverables/Lab7_Final_Validation_and_Demo/demo-script.md](deliverables/Lab7_Final_Validation_and_Demo/demo-script.md) | Setup, the 15-minute demo, the sprint video and likely questions |
+| [deliverables/Lab5_Deliverable5_Sprint1/retrospectives.md](deliverables/Lab5_Deliverable5_Sprint1/retrospectives.md) | What each sprint delivered, with space for the retrospective notes |

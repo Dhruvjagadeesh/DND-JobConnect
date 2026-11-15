@@ -29,14 +29,14 @@ Log in as **demo@dnd.test / Demo!2026**.
 | 9:30 | **Analytics**: KPIs, keyword yield, log an interview, change a status, Export CSV | REQ-21 to 24 | |
 | 11:00 | **Settings**: Pause All, then Search now on the feed is refused; schedule; limits | SRS 6.2 safety, REQ-11, 16, 18 to 20 | |
 | 12:00 | GitHub: Actions run, coverage, SonarQube, Jira/Project board | CI/CD, 265 tests, 96% coverage, process | |
-| 13:00 | `docs/deviations.md` | What changed from the SRS and why | |
+| 13:00 | `deviations.md` | What changed from the SRS and why | |
 | 14:00 | Questions | | |
 
 ## 2-minute Sprint video
 
 0:00 log in → 0:15 profile upload → 0:30 feed and Search now → 0:50 assisted apply → 1:10 email apply and
 Mailpit → 1:30 analytics → 1:45 Pause All → 2:00 end. Record with OBS or the Windows Game Bar (Win+G) at
-1280×720, then commit the file to `docs/videos/`.
+1280×720, then commit the file to `deliverables/` (Lab5 and Lab6 folders).
 
 ## Questions you may be asked
 

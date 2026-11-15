@@ -43,7 +43,7 @@ see it.
 | | |
 |---|---|
 | Documents | The Test Plan and Jira backlog planned four two-week sprints. |
-| What we did | The course schedule fixed two one-week sprints (Part-2 deliverables). Stories were regrouped into those two sprints. See `docs/retrospectives.md` for what each delivered and when. |
+| What we did | The course schedule fixed two one-week sprints (Part-2 deliverables). Stories were regrouped into those two sprints. See `../Lab5_Deliverable5_Sprint1/retrospectives.md` for what each delivered and when. |
 
 ## 6. Additions not in the SRS
 
